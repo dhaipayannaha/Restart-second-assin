@@ -1,0 +1,110 @@
+[
+  {
+    "id": "TCK-001",
+    "title": "Login page not loading",
+    "description": "Users are unable to access the login page from the homepage.",
+    "customer": "ABC Corporation",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-01T09:15:00Z"
+  },
+  {
+    "id": "TCK-002",
+    "title": "Payment gateway error",
+    "description": "Transactions are failing during checkout process.",
+    "customer": "Global Mart",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2026-03-01T11:30:00Z"
+  },
+  {
+    "id": "TCK-003",
+    "title": "UI alignment issue on dashboard",
+    "description": "Widgets are overlapping on smaller screen devices.",
+    "customer": "Tech Solutions Ltd.",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-02T08:45:00Z"
+  },
+  {
+    "id": "TCK-004",
+    "title": "Email notifications not sending",
+    "description": "System is not sending confirmation emails to new users.",
+    "customer": "Bright Future Inc.",
+    "priority": "High",
+    "status": "Resolved",
+    "createdAt": "2026-03-02T10:20:00Z"
+  },
+  {
+    "id": "TCK-005",
+    "title": "Password reset link expired",
+    "description": "Reset link expires immediately after generation.",
+    "customer": "NextGen IT",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2026-03-02T14:05:00Z"
+  },
+  {
+    "id": "TCK-006",
+    "title": "Slow page loading speed",
+    "description": "Product listing page takes more than 10 seconds to load.",
+    "customer": "ShopEase",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-03T07:50:00Z"
+  },
+  {
+    "id": "TCK-007",
+    "title": "Profile picture upload failed",
+    "description": "Users cannot upload profile images larger than 2MB.",
+    "customer": "Creative Hub",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-03-03T09:10:00Z"
+  },
+  {
+    "id": "TCK-008",
+    "title": "API returning 500 error",
+    "description": "Internal server error when fetching order history.",
+    "customer": "RetailPro",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2026-03-03T12:25:00Z"
+  },
+  {
+    "id": "TCK-009",
+    "title": "Search functionality not working",
+    "description": "Search results do not display relevant items.",
+    "customer": "Urban Trends",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2026-03-03T15:40:00Z"
+  },
+  {
+    "id": "TCK-010",
+    "title": "Database connection timeout",
+    "description": "Application loses connection to database intermittently.",
+    "customer": "DataCorp",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2026-03-04T06:30:00Z"
+  },
+  {
+    "id": "TCK-011",
+    "title": "Mobile menu not responsive",
+    "description": "Hamburger menu does not open on Android devices.",
+    "customer": "Smart Living",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2026-03-04T08:55:00Z"
+  },
+  {
+    "id": "TCK-012",
+    "title": "Incorrect invoice calculation",
+    "description": "Tax calculation is incorrect for international orders.",
+    "customer": "FinServe Ltd.",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-04T10:15:00Z"
+  }
+]

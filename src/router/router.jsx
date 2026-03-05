@@ -1,6 +1,6 @@
 import { createBrowserRouter } from "react-router";
-import RootLayouts from "../layouts/RootLayouts";
-import Home from "../pages/Home";
+import RootLayouts from "../layouts/RootLayouts.jsx";
+import Home from "../pages/Home.jsx";
 
 const router = createBrowserRouter([
     {
